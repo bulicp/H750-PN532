@@ -1,0 +1,13 @@
+*.launch
+*.log
+*.tmp
+*.swp
+*.swo
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+/build/
+/Debug/
+/Release/
