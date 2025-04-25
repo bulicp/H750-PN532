@@ -1,0 +1,15 @@
+../Core/Src/PN532.c:34:20:SS_HIGH	8	static
+../Core/Src/PN532.c:42:20:SS_LOW	8	static
+../Core/Src/PN532.c:50:16:SPI_read	24	static
+../Core/Src/PN532.c:61:13:SPI_write	24	static
+../Core/Src/PN532.c:87:25:isReadyToSend	16	static
+../Core/Src/PN532.c:108:25:waitToBeReady	16	static
+../Core/Src/PN532.c:126:25:readACK	24	static
+../Core/Src/PN532.c:153:14:sendFrame	24	static
+../Core/Src/PN532.c:187:25:sendCommand	24	static
+../Core/Src/PN532.c:205:17:readResponseToCommand	32	static
+../Core/Src/PN532.c:298:8:PN532_SPI_Init	8	static
+../Core/Src/PN532.c:321:11:PN532_getFirmwareVersion	16	static
+../Core/Src/PN532.c:360:18:PN532_SAMConfiguration	8	static
+../Core/Src/PN532.c:398:18:InListPassiveTarget	24	static
+../Core/Src/PN532.c:445:7:oscilloscopeLoop	16	static
