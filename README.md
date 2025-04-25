@@ -1,7 +1,7 @@
 
-[Click here to read the PDF](mydoc.pdf) – This document contains a detailed description of the project, including architecture, implementation notes, and usage instructions.
-
 # Case Study: Using the PN532 RFID/NFC Module with STM32 via SPI
+
+[Click here to read the PDF](H750-PN532.pdf) – This document contains a detailed description of the project, including architecture, implementation notes, and usage instructions.
 
 ## Introduction to RFID and NFC Communication
 
